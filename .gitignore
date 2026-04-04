@@ -1,0 +1,8 @@
+# STG WASTE FILTER
+.DS_Store
+node_modules/
+*.tmp
+*.local
+# Jangan ignore file dashboard
+!index.html
+!*.html
