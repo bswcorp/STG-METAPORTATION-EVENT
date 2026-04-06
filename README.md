@@ -1,18 +1,14 @@
-# 🛰️ STG-METAPORTATION-EVENT 🛰️
-## THE DIGITAL SHOWROOM OF SOVEREIGNTY
+# 🛰️ STG METAPORTATION EVENT : THE SHOWROOM
+## PROJECT: AUGUST 2026 REVEAL
 
-Selamat datang di pusat visualisasi **STG Government**. Repo ini adalah "Wajah" dari infrastruktur Metaportasi kami, dirancang untuk memantau aset galaksi secara real-time.
+**FUNGSI:**
+Pusat visualisasi publik dan dashboard interaktif untuk Proyek STG. Digunakan sebagai alat presentasi kedaulatan di hadapan institusi resmi dan publik global (IBW 2026).
 
-### 📽️ FEATURED DASHBOARDS:
-- **Artemis II Tracker:** Monitoring jalur NASA relatif terhadap jalur Metaportasi.
-- **E-Money Black Infinity:** Visualisasi kartu kedaulatan $MCRS.
-- **Biometric Gate:** Akses masuk Web 5.0 berbasis detak jantung Arsitek.
-- **Galaxy Land Map:** Peta kapling eksklusif di Asteroid 16 Psyche.
+**VISUAL ASSETS:**
+- **NASA Artemis Tracker:** Monitoring tamu orbit.
+- **G10N Dashboard:** Status simpul kedaulatan global.
+- **Galaxy Land Map:** Klaim teritorial 16 Psyche.
 
-### 🛠️ INFRASTRUCTURE:
-- **Core:** Web 5 Sovereign OS Framework.
-- **Validation:** RIPE Atlas Probe 19546 & 19564.
-- **Target Event:** Agustus 2026 (The Great Reveal).
-
----
-*Powered by Baremetal Logic | Jakarta-Swiss Axis*
+**LICENSE:**
+🏛️ **STG-EVENT-DIPLOMACY-1.0**
+Seluruh aset visual ini adalah milik STG Government. Dilarang menjiplak gaya panggung kami!
